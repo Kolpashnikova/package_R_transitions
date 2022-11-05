@@ -1,0 +1,13 @@
+# (uncomment to add a dependency)
+ dependencies:
+  - name: transitions
+    version: 1.0.0
+    src: htmlwidgets/lib/transitions-1.0.0
+    script:
+      - d3.min.js
+      - d3-chord.v2.js
+      - colors.js
+      - d3.v4.js
+      - d3-path.v2.js
+    stylesheet:
+      - extra.css
