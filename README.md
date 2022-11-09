@@ -1,6 +1,6 @@
 # package_R_transitions
 
-## Interactive Tempogram in R
+## Interactive Chord Diagram for Time-Use Data in R
 
 ### Installation
 
