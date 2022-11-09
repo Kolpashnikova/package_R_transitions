@@ -7,7 +7,7 @@
 ```
 devtools::install_github("Kolpashnikova/package_R_transitions")
 
-library(tempogram)
+library(transitions)
 ```
 
 ### Description
