@@ -37,7 +37,7 @@ Example of the names input:
 
 You can try the interactive demo here: (https://kolpashnikova.github.io/transitions)
 
-![Transitions](https://github.com/Kolpashnikova/package_R_tempogram/blob/main/examples/transitions.png)
+![Transitions](https://github.com/Kolpashnikova/package_R_transitions/blob/main/examples/transitions.png)
 
 ### References
 Kolpashnikova, Kamila. (2022). Interactive Chord Diagram for Time-Use Data in R. Toronto,ON: York University.
